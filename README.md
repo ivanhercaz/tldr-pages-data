@@ -11,7 +11,7 @@ Any idea to improve it? Any doubt? Just [open an issue](https://github.com/ivanh
 
 ## Notebook
 
-View the file [`tldr-pages_data.ipynb`](https://github.com/ivanhercaz/tldr-pages-data/blob/master/tldr-pages_data.ipynb) or [view it in nbviewer](https://nbviewer.jupyter.org/github/ivanhercaz/tldr-pages-data/tree/master/tldr-pages_data.ipynb).
+View the file [`tldr-pages_data.ipynb`](https://github.com/ivanhercaz/tldr-pages-data/blob/master/tldr-pages_data.ipynb) or [view it in nbviewer](https://nbviewer.jupyter.org/github/ivanhercaz/tldr-pages-data/blob/master/tldr-pages_data.ipynb).
 
 ## More information
   - [tldr-pages repository](https://github.com/tldr-pages/tldr)
